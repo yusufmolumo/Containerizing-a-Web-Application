@@ -1,0 +1,19 @@
+{
+  "name": "containerizing-a-web-application",
+  "version": "1.0.0",
+  "description": "Containerizing a web application assignment by Yusuf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufmolumo/Containerizing-a-Web-Application.git"
+  },
+  "author": "Yusuf Molumo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufmolumo/Containerizing-a-Web-Application/issues"
+  },
+  "homepage": "https://github.com/yusufmolumo/Containerizing-a-Web-Application#readme"
+}
