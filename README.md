@@ -56,12 +56,13 @@ This web application allows users to create, manage, and track their projects an
    ```bash
    npm install
 
-## Running the application
+## Running the Application
 
 To run the application locally, use the following command:
 
-  ```bash
-  npm start
+   ```bash
+   npm start
+   ```
 
 ## Docker
 
@@ -71,6 +72,7 @@ To build the Docker image for the application, use the following command:
 
    ```bash
    sudo docker build -t yusufmolumo/containerizing-a-web-application:latest .
+   ```
 
 ### Running the Docker Container
 
@@ -78,3 +80,4 @@ Once the Docker image is built, you can run a Docker container using the followi
 
    ```bash
    sudo docker run -d -p 3000:3000 yusufmolumo/containerizing-a-web-application:latest
+   ```
