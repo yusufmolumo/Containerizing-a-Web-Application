@@ -81,3 +81,11 @@ Once the Docker image is built, you can run a Docker container using the followi
    ```bash
    sudo docker run -d -p 3000:3000 yusufmolumo/containerizing-a-web-application:latest
    ```
+
+### Pushing the Docker Container
+
+Once logged in, you can push the tagged Docker image to Docker Hub using the docker push command:
+
+   ```bash
+   sudo docker push yusufmolumo/containerizing-a-web-application:latest
+   ```
