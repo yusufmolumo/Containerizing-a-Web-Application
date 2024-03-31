@@ -60,8 +60,8 @@ This web application allows users to create, manage, and track their projects an
 
 To run the application locally, use the following command:
 
-   ```bash
-   npm start
+  ```bash
+  npm start
 
 ## Docker
 
